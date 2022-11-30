@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "37721388676",
+    "project_id": "trippackage-b8e88",
+    "storage_bucket": "trippackage-b8e88.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37721388676:android:631828759bf1294820b4d1",
+        "android_client_info": {
+          "package_name": "com.example.mainuts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37721388676-q4srd0sffgb8iprps4nmoirn5q7om4pm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mainuts",
+            "certificate_hash": "86f9d3fe85e98f4516bae3a9920a37a03de8db4a"
+          }
+        },
+        {
+          "client_id": "37721388676-0uh7tr2h38t3vdb70vr2cuera0ftnh9c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtOOWA5_jzWKoxnPYzJqrjjIMcV7Pi1Pc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "37721388676-0uh7tr2h38t3vdb70vr2cuera0ftnh9c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

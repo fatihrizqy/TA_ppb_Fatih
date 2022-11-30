@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/id_Callcenter"
+        android:title="Call Center"/>
+
+    <item
+        android:id="@+id/id_SmsCenter"
+        android:title="SMS Center"/>
+
+    <item
+        android:id="@+id/id_maps"
+        android:title="Maps"/>
+
+    <item
+        android:id="@+id/id_Update"
+        android:title="Update User"/>
+
+    <item
+        android:id="@+id/history"
+        android:title="History Pemesanan"/>
+
+</menu>
